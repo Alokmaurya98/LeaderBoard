@@ -1,0 +1,1 @@
+export const api="https://leaderboard-system-4ye9.onrender.com"
